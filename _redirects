@@ -1,3 +1,4 @@
 # Redirects from what the browser requests to what we serve
-/index.html  /abc.html 200
+#/*          /newpage.html 200
+/index.html  /start.html 200
 /fish.html   /abc.html 200
